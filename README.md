@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @egbazua
+- 👋 Hi, I’m @egbazua.
 - 👀 I’m interested in grow up!
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
