@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egbazua.
-- 👀 I’m interested in grow up!
+- 👀 I’m interested in grow as a professional!
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: enriquegbazua@gmail.com
